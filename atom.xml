@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>good</title>
+  
+  <subtitle>一个正在培训前端的垃圾佬</subtitle>
+  <link href="http://weiyang520.cn/atom.xml" rel="self"/>
+  
+  <link href="http://weiyang520.cn/"/>
+  <updated>2022-10-27T00:23:06.792Z</updated>
+  <id>http://weiyang520.cn/</id>
+  
+  <author>
+    <name>weiyang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简介</title>
+    <link href="http://weiyang520.cn/post/28581.html"/>
+    <id>http://weiyang520.cn/post/28581.html</id>
+    <published>2022-10-27T00:23:06.792Z</published>
+    <updated>2022-10-27T00:23:06.792Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><hr><p><font color="Blue" size="4">你好,我是一名正在不断学习中的前端工程师,我比较懒,可能是因为我的追求没有那么高,有时候敲代码会发现时间过得很快,希望自己能越来越好吧<br></font></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;font color=&quot;Blue&quot; size=&quot;4&quot;&gt;你好,我是一名正在不断学习中的前端工程师,我比较懒,可能是因为我的追求没有</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一个项目</title>
+    <link href="http://weiyang520.cn/post/60349.html"/>
+    <id>http://weiyang520.cn/post/60349.html</id>
+    <published>2022-10-26T12:44:49.000Z</published>
+    <updated>2022-10-27T00:23:06.792Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
