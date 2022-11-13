@@ -2,36 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://weiyang520.cn/post/0.html</loc>
+    <loc>http://weiyang520.cn/post/26238.html</loc>
     
     <lastmod>2022-11-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://weiyang520.cn/post/41247.html</loc>
-    
-    <lastmod>2022-10-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://weiyang520.cn/post/61325.html</loc>
-    
-    <lastmod>2022-10-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://weiyang520.cn/post/60349.html</loc>
-    
-    <lastmod>2022-10-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -65,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://weiyang520.cn/categories/index.html</loc>
+    <loc>http://weiyang520.cn/about/index.html</loc>
     
     <lastmod>2022-10-27</lastmod>
     
@@ -74,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://weiyang520.cn/about/index.html</loc>
+    <loc>http://weiyang520.cn/categories/index.html</loc>
     
     <lastmod>2022-10-27</lastmod>
     
